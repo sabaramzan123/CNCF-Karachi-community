@@ -27,4 +27,13 @@ events_held: 0
 #     request: https://github.com/cloud-native-karachi/community/issues/12
 #     founding: true
 
-members: []
+members:
+  - name: Saba Ramzan
+    github: https://github.com/sabaramzan123
+    linkedin: https://www.linkedin.com/in/saba-ramzan-94b7742b8/
+    org: Cloud Native Karachi
+    sigs: []
+    sponsors: [amaanx86]
+    since: 2026-08-11
+    request: https://github.com/cloud-native-karachi/community/issues/4
+    founding: true
